@@ -60,7 +60,7 @@ const Countries = [
   { ru:"Джибути",lt:"Džibutis",tr:"Cibuti", en: 'Djibouti',flag: '🇩🇯',code: 'DJ', dialCode: '+253', mask: '99 99 99 99' },
   { ru:"Доминика",lt:"Dominika",tr:"Dominika", en: 'Dominica',flag: '🇩🇲',code: 'DM', dialCode: '+1767', mask: '(999) 999-9999' },
   { ru:"Эквадор",lt:"Ekvadoras",tr:"Ekvador", en: 'Ecuador',flag: '🇪🇨',code: 'EC', dialCode: '+593', mask: '999 999 9999' },
-  { ru:"Египет",lt:"Egiptas",tr:"Mısır", en: 'Egypt',flag: '🇪🇬',code: 'EG', dialCode: '+20', mask: '9999 999 9999' },
+  { ru:"Египет",lt:"Egiptas",tr:"Mısır", en: 'Egypt',flag: '🇪🇬',code: 'EG', dialCode: '+20', mask: '999 999 9999' },
   { ru:"Сальвадор",lt:"Salvadoras",tr:"El Salvador", en: 'El Salvador',flag: '🇸🇻',code: 'SV', dialCode: '+503', mask: '9999 9999' },
   { ru:"Экваториальная Гвинея",lt:"Pusiaujo Gvinėja",tr:"Ekvator Ginesi", en: 'Equatorial Guinea',flag: '🇬🇶',code: 'GQ', dialCode: '+240', mask: '999 999 999' },
   { ru:"Эритрея",lt:"Eritrėja",tr:"Eritre", en: 'Eritrea',flag: '🇪🇷',code: 'ER', dialCode: '+291', mask: '99 999 999' },
